@@ -27,7 +27,6 @@ public class BSPractice2 {
                 }
             }
         }
-
         return -1;
     }
 
