@@ -16,7 +16,6 @@ public class BSPractice1 {
                 left = mid + 1;
             }
         }
-
         return -left -1;
     }
 
