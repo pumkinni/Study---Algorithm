@@ -1,4 +1,4 @@
-// 알고리즘 - 이진 탐색
+// 알고리즘 - 이진 탐색 직접 구현
 
 public class BinarySearch {
     // 반복문 구조
