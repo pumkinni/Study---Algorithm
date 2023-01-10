@@ -39,7 +39,6 @@ public class BSPractice3 {
                 left = mid + 1;
             }
         }
-
         return false;
     }
 
