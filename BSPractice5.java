@@ -29,7 +29,6 @@ public class BSPractice5 {
             }
 
         }
-
         return left;
     }
 
