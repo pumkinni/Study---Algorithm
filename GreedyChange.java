@@ -26,7 +26,6 @@ public class GreedyChange {
         for (Map.Entry<Integer,Integer> entry : map.entrySet()){
             System.out.println(entry.getKey() + " : " + entry.getValue());
         }
-
     }
 
     public static void main(String[] args) {
