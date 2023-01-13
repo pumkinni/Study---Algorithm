@@ -26,7 +26,6 @@ public class BTPractice1 {
                 visited[i] = false;
             }
         }
-
     }
 
     public static void main(String[] args) {
